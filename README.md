@@ -74,6 +74,10 @@ You are a member of a highly innovative IT-consulting company. You and your team
 - Learning curve (Progression)
 - Ranking System
 - Rewards
+- Skins
+- CMS features
+- Voicechat
+- Games should train reflexes | dexterity
 - 2D - 3D ???
-- 2D: Mby platformer -> procedurally generated world (enemies/bosses) with themes that can be customised with assets (using imgs and sounds)
-- 3D: 
+- 2D: Mby platformer -> procedurally generated world (enemies/bosses) with themes that can be customised with assets (using imgs and sounds) [Singleplayer AND Multiplayer] (Style=Pixelart)
+- 3D: Minigames like golf, airhockey -> mixed with quizes [Multiplayer]
