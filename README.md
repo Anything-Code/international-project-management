@@ -18,7 +18,7 @@ Org: Digital Hearing Platform "Luise lauscht"
 - Progression (Has to have learning curve). Therefor admins and families and teachers (roles) have to be able to provice learning-content (CMS)
 - Detailed literature analysis, technical concept, user interface up to the final time and budged planning
 
-URL: https://sbbz-luise.de
+URL: <https://sbbz-luise.de>
 
 Audio learning platform for the school SBBZ Luise von Baden for bad hearing children.
 
@@ -51,7 +51,7 @@ You are a member of a highly innovative IT-consulting company. You and your team
 
 ## Module components
 
-1. 
+1.
 
 ## Exams
 
@@ -60,7 +60,61 @@ You are a member of a highly innovative IT-consulting company. You and your team
 
 ## Methods
 
-## Design-Thinking
+### Project Organisation
+
+### Influence Organisation
+
+One Project Manager
+
+Not your own authority -> it comes from your boss
+
+Sometimes the only thing you can do as a PMgr. is escalate
+
+### Pure PO (Project Organisation)
+
+PMgr. (Project manager) has the complete disciplinary responsibility for all resources.
+
+### Matrix Organisation
+
+2 Organisation
+
+Linear Organisation (Vertical)
+
+Project Organisation (Horizontal)
+
+Typically manufacturing businesses
+
+## Agile
+
+- ~2 weeks iterations
+- Individuals and interactions over processes and tools (Communication between for example front- and backend. Processes have to be flexible)
+- Working software over comprehensive documentation (Code review and documentation)
+
+### User story
+
+Describe the user
+
+### Epic
+
+Super user story
+
+### User journey
+
+general für all agile methods
+
+can have several Epics in between
+
+### Teams in agile
+
+1. Translator
+2. SCRUM-Master
+3. Developers
+4. Testers
+
+
+### Example Project
+
+
 
 ## Report
 
@@ -69,7 +123,7 @@ You are a member of a highly innovative IT-consulting company. You and your team
     2.1. Project management process model
     2.2. Technological specifications
 
-## Free game mode brainstorming 
+## Free game mode brainstorming
 
 - Learning curve (Progression)
 - Ranking System
