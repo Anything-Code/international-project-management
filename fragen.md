@@ -115,20 +115,129 @@ Email: gerd.moeckel@srh-imd.de
 
 ## Questions for team 3
 
+- Written in php
 - What are the given interfaces to extend moodle?
+  - Plugin in the backend and frontend
 - What database do you use?
+  - Some SQL dialect
+    - Hybrid with resources (Mby nfs storing the path in the db)
+- Can you tell us something about your:
+  - Motivation: Write a 25 page report
+  - Challenges: Moodle supports rdbms...not sure how good the implementation works...iops might get reduced
+  - Needs:
+    - Get in touch for clear communication
+  - Wants:
+    - A game that is scalable
+    - Easy game
 
 ## Questions for team 2 (Backend)
 
 - What language do you use on the backend?
 - What database do you use?
-- Is it possible to implement a VR/AR game with that tech-stack
-- is there a list of exception of things we can not implement or not use
+- Is it possible to implement a VR/AR game with that tech-stack?
+- is there a list of exception of things we can not implement or not use?
+- Can you tell us something about your:
+  - Motivation:
+  - Challenges:
+  - Needs:
+  - Wants:
 
 ## Questions for team 1 (Frontend)
 
 - Do you use any frameworks on the frontend
+- Can we use the html-canvas and WebGL to render our game?
+- Any specific frontend-tech we cannot use?
+
+## Considering persona
+
+- Name:
+- Age:
+- Marital-status:
+- Profession:
+- Team-name:
+- Motivation:
+- Challenges:
+- Needs:
+- Wants:
+
+## Personas
+
+- Teacher [Mahima]
+- Parent [Mahima]
+- Dean? [Mahima]
+- Student [Mahima]
+- Doctor [Mahima]
+
+- Team 1 (Frontend) [Niklas]
+- Team 2 (Backend) [Niklas]
+- Team 3 (Moodle) [Finished]
+- Team 4 (UI/UX) [Niklas]
+- Team 5 (Quiz game mode) [Vipul]
+- Team 6 (Memory game mode) [Vipul]
+- Team 7 (Free game mode) [Vipul]
 
 ## Questions to us from team 2
 
-
+- Name of App.
+  - Not available yet.
+- Available in Platform.
+  - Moodle
+- What help you require from the backend team?
+  - What language do you use on the backend?
+  - What database do you use?
+  - Is it possible to implement a VR/AR game with that tech-stack?
+  - is there a list of exception of things we can not implement or not use?
+  - Can you tell us something about your:
+    - Motivation:
+    - Challenges:
+    - Needs:
+    - Wants:
+- In what format do you want the data?
+  - We don't know :)
+  - Why are you asking?
+- What all data needs to be encrypted?
+  - No data encryption please :)
+  - Only encrypt the path
+  - If you encrypt it you need to hash + encrypt so you can query which is n*2 size
+- How will the integration work between frontend and backend?
+  - Not our job :/
+  - Use APL programming language mby
+  - Multiplayer mby websockets...or webRTC for peer to peer
+- What data needs to be saved?
+  - Information about the user like
+    - Progress
+    - Rewards
+- Will there be guest users?
+  - No
+- What all privileges admin would like to have?
+  - Mutate state :)
+- What all information would you acquire from the user? (If Biometrics are involved, what are they?)
+  - Name
+  - Age
+  - Height
+- Would this be plugin work as a web application / Mobile application / both?
+  - I guess both thehe
+- How many user modules(number of entities)?
+  - As many as possible
+- How many tabs does your dashboard have?
+- What level of user accessibility each entity has(meaning: authorisation primarily)
+  - Analytics page with a graph of progress
+- Examples:
+  - Parents can access their child’s profile
+  - Children have limited access to details
+  - Doctors have access to parents as well as child’s progress and involvement report.
+- Who would be able to change master data, and what information are users/doctors/children/parents allowed to update?
+  - Parents and teachers are able to upload content like images, sound and (videos)
+  - Doctors can only read...analytics...metrics
+- Do you use password management system? (if yes, for recovery, would their personal id’s be stored as well)?
+  - We use moodle to authenticate
+- Do you use SSO( Single sign on (FB/Google/Email) for creating profiles) and any tracking service for them if they are lost or need support?
+  - No...We use moodle to authenticate
+- Do you have a grievance section for continuous evolution of your game? (To report issues faced by certain kid)
+  - Yes we ofc thought about that
+- How often would you update the progress details for doctors to monitor?
+  - Realtime
+- Quiz examples: if you could give examples to help us decide the schema and decide on our databases.
+  - Yeah not that far yet
+- Brief Description and Features.
+  - We are still trying to understand the problem :) Sowwy uwu ^.^
