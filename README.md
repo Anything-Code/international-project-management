@@ -166,16 +166,3 @@ A backlog is a Bucket of User stories not yet addressed.
 2. Detailed project concept
     2.1. Project management process model
     2.2. Technological specifications
-
-## Free game mode brainstorming
-
-- Learning curve (Progression)
-- Ranking System
-- Rewards
-- Skins
-- CMS features
-- Voicechat
-- Games should train reflexes | dexterity
-- 2D - 3D ???
-- 2D: Mby platformer -> procedurally generated world (enemies/bosses) with themes that can be customised with assets (using imgs and sounds) [Singleplayer AND Multiplayer] (Style=Pixelart)
-- 3D: Minigames like golf, airhockey -> mixed with quizes [Multiplayer]
