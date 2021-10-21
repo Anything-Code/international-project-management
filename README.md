@@ -1,5 +1,12 @@
 # International project management
 
+## Scripts
+
+- [Design-thinking workshop](./design-thinking-workshop.md)
+- [Theory-script](./theory-script.md)
+- [Questions](./questions.md)
+- [Personas](./personas.md)
+
 ## Exams
 
 1. Report (In moodle)
