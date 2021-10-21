@@ -1,8 +1,0 @@
-{
-    "files.watcherExclude": {
-        "**/target": true
-    },
-    "deno.enable": true,
-    "deno.lint": true,
-    "deno.unstable": true
-}
