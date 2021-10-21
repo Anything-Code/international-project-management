@@ -116,14 +116,13 @@ Project planning is based on a detailed evaluation that in the end is reflected 
 - In agile the dependencies do not have to be ordered...they are all the same
 - You can assign a team to a sprint and the team will pick the user stories (self organised)
 
-#### Classical planning
+### Classical planning
 
 ![classical-project-schedule](./img/classical-project-schedule.png)
 ![alt](./img/classical-project-schedule-time-analysis.png)
 ![alt](./img/classical-project-schedule-time-calculation.png)
 
-
-##### Example (duration calculation)
+#### Example (duration calculation)
 
 | Overhead        | Week | Year |      |       |
 | :-------------- | :--- | :--- | :--- | :---- |
@@ -137,13 +136,56 @@ Project planning is based on a detailed evaluation that in the end is reflected 
 | Meetings          | 4    | 166.4 | 1417.6 | 0.7088 |
 | Personal training | 2    | 81.2  | 1336.4 | 0.6682 |
 
-##### Example (time calculation (usually done in MS-project))
+#### Example (time calculation (usually done in MS-project))
 
 ![alt](./img/example-tasks.png)
 ![alt](./img/cost-view.png)
 ![alt](./img/critical-path.png)
 
-###### Remember
+##### Remember
 
 1. **Be sure to focus on the tasks on the critical-path!**
 2. **Avoid tasks without further connections!**
+
+#### Resource Planning
+
+##### Skills needed
+
+- What are the qualifications of people and groups needed to achieve the project targets?
+- If a functional area is needed, is the necessary qualification reflected in one person or multiple persons of this group - different focus points versus one focus?
+
+##### Availability of personnel and other resources
+
+- Is there a chance to buy-in such qualifications?
+- What machine, materials, auxillary materials, rooms are needed during the project implementation?
+- Do you have a continuos access to your resources or are there limitations knows or foreseeable?
+- Is the resource availability recognized in your plan (periods, vacations, trainings,...) either by concrete dates or in form of buffer times?
+
+##### Define the minimum
+
+- Are all of them really necessary or can the list be limited? If yes, what is the final list?
+
+##### Identify interfaces
+
+- Are there any interfaces conflicts, influences of resources that need to be considered within the project?
+
+#### Controlling: Control-loop
+
+![alt](./img/control-loop.png)
+
+#### Controlling: Burndown-chart (Typical-Agile)
+
+![alt](./img/burndown-charts.png)
+![alt](./img/burndown-charts_1.png)
+
+#### Controlling: Classical DA (Deviation Analysis)
+
+![alt](./img/deviation-analysis.png)
+
+#### Controlling: Milestone trend Analysis (MTA)
+
+![alt](./img/milestone-trend-analysis.png) 
+
+#### Controlling: Earned Value analysis (EV) [Embedded in MS-Project]
+
+![alt](./img/earned-value-analysis.png) 
