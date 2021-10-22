@@ -130,6 +130,9 @@ Email: gerd.moeckel@srh-imd.de
     - A game that is scalable
     - Easy game
 
+1. There can be different type of data (Text to speech)
+2. uploaded data will be verified by the school
+
 ## Questions for team 2 (Backend)
 
 - What language do you use on the backend?

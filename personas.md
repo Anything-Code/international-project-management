@@ -68,3 +68,14 @@
   - Designing a mascot that fulfills the high expectations that children have
 - Needs:
 - Wants:
+
+Team 1
+Abir
+
+Team 2
+Neelima
+
+Team 4
+Shiwani
+
+Is the cms in our responsibilty or is there going to be a centralised version that is supporting all the games
