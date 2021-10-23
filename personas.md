@@ -14,8 +14,10 @@
   - Form consensus with multiple people and teams about an ideal solution
   - Competitive environment
   - Different requirements from the teams
+  - Mainly work with php and html5 and js
 - Needs:
   - Clear instructions from the game-teams
+  - Other teams to decide on the architectures of the games
 - Wants:
   - Be a useful asset to the team
   - Be able to show his abilities to the professor
@@ -67,7 +69,9 @@
 - Challenges:
   - Designing a mascot that fulfills the high expectations that children have
 - Needs:
+  - Game teams for the game ideas to provide UI/UC guidelines for that
 - Wants:
+  - A look and feel that is appropriate for kids
 
 Team 1
 Abir
@@ -78,4 +82,4 @@ Neelima
 Team 4
 Shiwani
 
-Is the cms in our responsibilty or is there going to be a centralised version that is supporting all the games
+Is the cms in our responsibility or is there going to be a centralised version that is supporting all the games
