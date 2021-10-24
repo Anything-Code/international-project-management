@@ -1,12 +1,14 @@
 # International project management
 
-## Scripts
+## Navigation
 
 - [Design-thinking workshop](./design-thinking-workshop.md)
 - [Theory-script](./theory-script.md)
 - [Questions](./questions.md)
 - [Personas](./personas.md)
 - [Point-of-view](./point-of-view.md)
+- [Brainstorming](./brainstorming.md)
+- [First status presentation](status-presentation-1.md)
 
 ## Exams
 
