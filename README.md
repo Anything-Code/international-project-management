@@ -6,7 +6,7 @@
 - [Theory-script](./theory-script.md)
 - [Questions](./questions.md)
 - [Personas](./personas.md)
-- [User-stories](./user-stories.md)
+- [Point-of-view](./point-of-view.md)
 
 ## Exams
 

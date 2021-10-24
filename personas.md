@@ -1,5 +1,28 @@
 # Personas
 
+## School Administration
+
+- Name: John Doe
+- Age: 27
+- Marital-status: Single
+- Profession: Frontend-Developer
+- Team-name: Full Front
+- Motivation:
+  - Apply methods of PM in practice
+  - Build functional, performant user-interfaces
+- Challenges:
+  - Form consensus with multiple people and teams about an ideal solution
+  - Competitive environment
+  - Different requirements from the teams
+  - Mainly work with php and html5 and js
+- Needs:
+  - Clear instructions from the game-teams
+  - Other teams to decide on the architectures of the games
+- Wants:
+  - Be a useful asset to the team
+  - Be able to show his abilities to the professor
+  - Achieve a good grade
+
 ## Team 1 (Frontend)
 
 - Name: John Doe
