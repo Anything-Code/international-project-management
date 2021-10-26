@@ -16,3 +16,8 @@
       4. Select one solution **or** compose solutions into one (Mahima)
 5. Rough draft of our game (Mahima)
 6. Summary of presentation (Niklas)
+
+## Feedback
+
+1. Don't tell teachers how to teach
+2. Final presentation should focus on the solution
