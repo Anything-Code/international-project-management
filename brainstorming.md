@@ -14,27 +14,6 @@
 
 ## Some game scenarios that consider the [POVs](./point-of-view.md)
 
-- A game like charades [**Explaining** they cant do this, Draw, Mimic] (Use content by parents) (Multiplayer only)
-- Someone will mimic an action and the kids have to guess the action [by speaking] (Interactivity, memory, quiz)
-  - But the input that the kids receive is visual
-  - Answer is repeated in speech
-- I spy with my little eye (but with ear)
-  - Play a sound
-  - The kids have to guess that sound by either choosing, typing or saying the answer
-- Pokemon GO (AR) but with sound
-  - Noises from the real world
-    - Classroom, playground...familiar surroundings
-    - Teachers, Parents can upload assets
-  - Kids head towards the source of the sound they get one point
-- Karaoke with children-songs (Older-kids so...later)
-- Where is wally...but with different assets (sounds)
-  - Provide sound of...anything
-  - They click on the correct item
-    - The bat will come and congratulate them :)
-  - They click on the wrong item
-    - The bat will bite them :(
-      - They get corona :'(
-
 1. Repeating the sounds of the image/video and saying it back (like duo-lingo)
 2. Introduction to positive-reinforcement (Generous point-distribution-policy)
 
@@ -58,3 +37,46 @@
 - Great opportunity to teach the kids numbers from 0 to 24
 - Petterson und Findus as an example
 - Maybe use the SBBZ-school as a picture as an asset in the game
+
+## Main game idea
+
+- Pokemon-like
+  - But you capture sounds not pokemon...
+    - To catch them...you have to play a mini-game
+  - In this scenario we can use SP, MP
+  - **Singleplayer** = AR as an app on the Tablet
+  - **Multiplayer** = In the browser not AR but you can visit remote places
+- Platformer
+
+### World
+
+- School
+- Garden
+
+### Actors
+
+- Mascot
+- Animals
+
+## Mini-games
+
+- A game like charades [**Explaining** they cant do this, Draw, Mimic] (Use content by parents) (Multiplayer only)
+- Someone will mimic an action and the kids have to guess the action [by speaking] (Interactivity, memory, quiz)
+  - But the input that the kids receive is visual
+  - Answer is repeated in speech
+- I spy with my little eye (but with ear)
+  - Play a sound
+  - The kids have to guess that sound by either choosing, typing or saying the answer
+- Pokemon GO (AR) but with sound
+  - Noises from the real world
+    - Classroom, playground...familiar surroundings
+    - Teachers, Parents can upload assets
+  - Kids head towards the source of the sound they get one point
+- Karaoke with children-songs (Older-kids so...later)
+- Where is wally...but with different assets (sounds)
+  - Provide sound of...anything
+  - They click on the correct item
+    - The bat will come and congratulate them :)
+  - They click on the wrong item
+    - The bat will bite them :(
+      - They get corona :'(
