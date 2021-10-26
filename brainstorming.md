@@ -48,3 +48,13 @@
 
 - Content like...rhymes bc kids like rhymes
 - Content like...animals
+
+## Ideas by Mr. Möckel
+
+- Advent callander
+- Behind each door you could hav
+  - A sound
+  - A video
+- Great opportunity to teach the kids numbers from 0 to 24
+- Petterson und Findus as an example
+- Maybe use the SBBZ-school as a picture as an asset in the game
