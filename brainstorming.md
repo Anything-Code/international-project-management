@@ -40,13 +40,40 @@
 
 ## Main game idea
 
-- Pokemon-like
+- Pokemon-GO-like
+- Tutorials about
+  - The game structure
+  - Usage
+  - Sounds -> objects
+- Single-Player
+  - Help
+    - Grievance-section
+    - Question in general
+      - In the form of video-message
+    - Sign-language-chat with video-input recognising the signs and putting it as icons/glyphs into the chat
+  - Hints within the game
+    - Objects in the center of AR-space (also tap it)
+      - Hear sound
+      - See sign language representation
+  - Daily challenges
+    - Kids are given tasks in the form of sounds and then they have to find the right objects in the real world...with AR
+      - Hints if the kids don't get it right away in the form of sign-language (f.e. It has four legs and you can st on it (chair, horse))
   - But you capture sounds not pokemon...
     - To catch them...you have to play a mini-game
+      - Image of an object pops up
+      - Child has to find it
+      - To capture it...play a mini-game
   - In this scenario we can use SP, MP
   - **Singleplayer** = AR as an app on the Tablet
   - **Multiplayer** = In the browser not AR but you can visit remote places
-- Platformer
+    - Sign-language chat
+    - Objects and the kids see the other (Avatars) at the current object that they are working on (include a **map-feature**)
+      - Map feature locations accessible by supervisors
+    - Playing through the mini-games together when working on the same object (Partner-feature (COOP))
+    - Other schools (**future**)
+      - Kids can visit other schools virtually with their avatar
+        - On the map 2D (Could run inside the browser)
+        - With 3D-Goggles visit the schools in 3D-space (VR-Game)
 
 ### World
 
