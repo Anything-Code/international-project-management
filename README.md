@@ -9,6 +9,8 @@
 - [Point-of-view](./point-of-view.md)
 - [Brainstorming](./brainstorming.md)
 - [First status presentation](status-presentation-1.md)
+- [Game-specifics](./game-specification.md)
+- [Kanban](./tasks.md)
 
 ## Exams
 
