@@ -58,6 +58,7 @@
   - Daily challenges
     - Kids are given tasks in the form of sounds and then they have to find the right objects in the real world...with AR
       - Hints if the kids don't get it right away in the form of sign-language (f.e. It has four legs and you can st on it (chair, horse))
+    - Also in the form of mini-games
   - But you capture sounds not pokemon...
     - To catch them...you have to play a mini-game
       - Image of an object pops up
