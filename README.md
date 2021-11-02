@@ -11,6 +11,7 @@
 - [First status presentation](status-presentation-1.md)
 - [Game-specifics](./game-specification.md)
 - [Kanban](./tasks.md)
+- [Mockups](./mockups.md)
 
 ## Exams
 
