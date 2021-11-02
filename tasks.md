@@ -1,4 +1,6 @@
-# Tasks (Kanban)
+# Tasks
+
+## Kanban (29.10.2021)
 
 | To do      | In progress | Review | Done |
 | :--------- | :---------- | :----- | :--- |
@@ -11,6 +13,20 @@
 | -          | 7 (Vipul)   | -      | -    |
 | 8 (Vipul)  | -           | -      | -    |
 | 9 (Vipul)  | -           | -      | -    |
+
+## Kanban (01.11.2021)
+
+| To do | In progress | Review     | Done |
+| :---- | :---------- | :--------- | :--- |
+| -     | -           | 1 (Mahima) | -    |
+| -     | -           | 2 (Mahima) | -    |
+| -     | -           | 3 (Mahima) | -    |
+| -     | -           | 4 (Nik)    | -    |
+| -     | -           | 5 (Nik)    | -    |
+| -     | -           | 6 (Nik)    | -    |
+| -     | -           | 7 (Vipul)  | -    |
+| -     | -           | 8 (Vipul)  | -    |
+| -     | -           | 9 (Vipul)  | -    |
 
 ## Tasks
 
