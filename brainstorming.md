@@ -108,3 +108,18 @@
   - They click on the wrong item
     - The bat will bite them :(
       - They get corona :'(
+
+## Name for main-game
+
+- Soundking
+- Soundify
+- Call of sounds
+- Soundnite
+- Soundbob
+- Soundarity
+- Mr. Bat
+- Batman
+- Soundman
+- Soundkid
+- Soundleague (Winner)
+- Soundsummary

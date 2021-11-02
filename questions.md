@@ -244,3 +244,7 @@ Email: gerd.moeckel@srh-imd.de
   - Yeah not that far yet
 - Brief Description and Features.
   - We are still trying to understand the problem :) Sowwy uwu ^.^
+
+## Questions for the professor
+
+- How large will the dev-team be for the project (resources)

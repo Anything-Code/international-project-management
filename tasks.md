@@ -1,36 +1,6 @@
 # Tasks
 
-## Kanban (29.10.2021)
-
-| To do      | In progress | Review | Done |
-| :--------- | :---------- | :----- | :--- |
-| -          | 1 (Mahima)  | -      | -    |
-| 2 (Mahima) | -           | -      | -    |
-| 3 (Mahima) | -           | -      | -    |
-| -          | 4 (Nik)     | -      | -    |
-| 5 (Nik)    | -           | -      | -    |
-| 6 (Nik)    | -           | -      | -    |
-| -          | 7 (Vipul)   | -      | -    |
-| 8 (Vipul)  | -           | -      | -    |
-| 9 (Vipul)  | -           | -      | -    |
-
-## Kanban (01.11.2021)
-
-| To do | In progress | Review     | Done |
-| :---- | :---------- | :--------- | :--- |
-| -     | -           | 1 (Mahima) | -    |
-| -     | -           | 2 (Mahima) | -    |
-| -     | -           | 3 (Mahima) | -    |
-| -     | -           | 4 (Nik)    | -    |
-| -     | -           | 5 (Nik)    | -    |
-| -     | -           | 6 (Nik)    | -    |
-| -     | -           | 7 (Vipul)  | -    |
-| -     | -           | 8 (Vipul)  | -    |
-| -     | -           | 9 (Vipul)  | -    |
-
-## Tasks
-
-### Mockups (Must include tablet-frame)
+## Mockups (Must include tablet-frame)
 
 1. Kid signs in or is already signed in (Use moodle as auth-service)
 2. Character creation screen for the avatar (They can attach a sound to their created character)
@@ -45,7 +15,7 @@
 8. A mini-games opens-up
 9. The mascot celebrates the kid
 
-#### Common ground
+### Common ground
 
 - Colors
   - Primary: #fff
@@ -54,3 +24,63 @@
 - Use signily-hand pictures for sign-language-mocking
 
 ![Sign-language-assets](./img/sign-lanuage.jpg)
+
+### Kanban (29.10.2021)
+
+| To do      | In progress | Review | Done |
+| :--------- | :---------- | :----- | :--- |
+| -          | 1 (Mahima)  | -      | -    |
+| 2 (Mahima) | -           | -      | -    |
+| 3 (Mahima) | -           | -      | -    |
+| -          | 4 (Nik)     | -      | -    |
+| 5 (Nik)    | -           | -      | -    |
+| 6 (Nik)    | -           | -      | -    |
+| -          | 7 (Vipul)   | -      | -    |
+| 8 (Vipul)  | -           | -      | -    |
+| 9 (Vipul)  | -           | -      | -    |
+
+### Kanban (01.11.2021)
+
+| To do | In progress | Review     | Done |
+| :---- | :---------- | :--------- | :--- |
+| -     | -           | 1 (Mahima) | -    |
+| -     | -           | 2 (Mahima) | -    |
+| -     | -           | 3 (Mahima) | -    |
+| -     | -           | 4 (Nik)    | -    |
+| -     | -           | 5 (Nik)    | -    |
+| -     | -           | 6 (Nik)    | -    |
+| -     | -           | 7 (Vipul)  | -    |
+| -     | -           | 8 (Vipul)  | -    |
+| -     | -           | 9 (Vipul)  | -    |
+
+### Kanban (02.11.2021)
+
+| To do | In progress | Review | Done       |
+| :---- | :---------- | :----- | :--------- |
+| -     | -           | -      | 1 (Mahima) |
+| -     | -           | -      | 2 (Mahima) |
+| -     | -           | -      | 3 (Mahima) |
+| -     | -           | -      | 4 (Nik)    |
+| -     | -           | -      | 5 (Nik)    |
+| -     | -           | -      | 6 (Nik)    |
+| -     | -           | -      | 7 (Vipul)  |
+| -     | -           | -      | 8 (Vipul)  |
+| -     | -           | -      | 9 (Vipul)  |
+
+## Report-components
+
+1. Project description
+2. Target state
+3. application-flow diagram
+4. Stakeholder- and risk-analysis
+5. Logo for "Soundleague"
+
+### Kanban (03.11.2021)
+
+| To do | In progress | Review | Done |
+| :---- | :---------- | :----- | :--- |
+| -     | 1 (Vipul)   | -      | -    |
+| -     | 2 (Mahima)  | -      | -    |
+| -     | 3 (Vipul)   | -      | -    |
+| -     | 4 (Niklas)  | -      | -    |
+| -     | 5 (Mahima)  | -      | -    |
