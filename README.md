@@ -12,9 +12,10 @@
 8. [Game-specifics](./game-specification.md)
 9. [Kanban-delegations](./tasks.md)
 10. [Mockups](./mockups.md)
-11. [CMS-features](./cms.md)
-12. [Future feature opportunities](./future-feature-opportunities.md)
-13. [Report](./report.md)
+11. [Application-flow-diagram](./application-flow-diagram.md)
+12. [CMS-features](./cms.md)
+13. [Future feature opportunities](./future-feature-opportunities.md)
+14. [Report](./report.md)
 
 ## Exams
 
