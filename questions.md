@@ -248,3 +248,4 @@ Email: gerd.moeckel@srh-imd.de
 ## Questions for the professor
 
 - How large will the dev-team be for the project (resources)
+- What tablet (platform) will the kids be using?

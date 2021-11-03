@@ -1,17 +1,20 @@
 # International project management
 
-## Navigation
+## Table of contents
 
-- [Design-thinking workshop](./design-thinking-workshop.md)
-- [Theory-script](./theory-script.md)
-- [Questions](./questions.md)
-- [Personas](./personas.md)
-- [Point-of-view](./point-of-view.md)
-- [Brainstorming](./brainstorming.md)
-- [First status presentation](status-presentation-1.md)
-- [Game-specifics](./game-specification.md)
-- [Kanban](./tasks.md)
-- [Mockups](./mockups.md)
+1. [Theory-script](./theory-script.md)
+2. [Design-thinking workshop](./design-thinking-workshop.md)
+3. [Questions](./questions.md)
+4. [Personas](./personas.md)
+5. [Point-of-view](./point-of-view.md)
+6. [Brainstorming](./brainstorming.md)
+7. [First status presentation](status-presentation-1.md)
+8. [Game-specifics](./game-specification.md)
+9. [Kanban-delegations](./tasks.md)
+10. [Mockups](./mockups.md)
+11. [CMS-features](./cms.md)
+12. [Future feature opportunities](./future-feature-opportunities.md)
+13. [Report](./report.md)
 
 ## Exams
 
