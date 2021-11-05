@@ -16,6 +16,6 @@
 
 ## Teacher/Parent
 
-| ID   | User story (As a student I need) | BV   |
-| :--- | :------------------------------- | :--- |
-| 1    |                                  |      |
+| ID   | User story (As a teacher/parent I need) | BV   |
+| :--- | :-------------------------------------- | :--- |
+| 1    |                                         |      |
