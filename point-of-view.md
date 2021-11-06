@@ -2,7 +2,7 @@
 
 ## Parents
 
-| ID   | Feeling                                                             | Feature (US) |
+| ID   | Need                                                                | Feature (US) |
 | :--- | :------------------------------------------------------------------ | :----------- |
 | 1    | As a parent I want my kids to learn how to hear really well         | -            |
 | 2    | As a parent I want no violent games for my kids                     | -            |
@@ -12,31 +12,31 @@
 | 6    | As a teacher I want to communicate with my students                 | -            |
 | 7    | As a parent I want to know what my child is thinking about the game | -            |
 
-## Teachers
+## Teachers/Parents
 
-| ID   | Feeling                                                                 | Feature (US)                                             | BV   |
-| :--- | :---------------------------------------------------------------------- | :------------------------------------------------------- | :--- |
-| 1    | As a teacher I want to communicate with my students (inside the game)   | Grievance-section                                        | Must |
-| 2    | As a teacher I want my students to learn as much as possible            | Dashboard for teachers (and parents with a progress-bar) | Must |
-| 3    | As a teacher I want to be able to contribute to the content of the game | Upload-section for teachers (and parents)                | Must |
-| 4    | As a teacher I want my students to enjoy learning                       | **Introduce learning through games**                     | Must |
+| ID   | Need                                                                    | Feature (US)                                             |
+| :--- | :---------------------------------------------------------------------- | :------------------------------------------------------- |
+| 1    | As a teacher I want to communicate with my students (inside the game)   | Grievance-section                                        |
+| 2    | As a teacher I want my students to learn as much as possible            | Dashboard for teachers (and parents with a progress-bar) |
+| 3    | As a teacher I want to be able to contribute to the content of the game | Upload-section for teachers (and parents)                |
+| 4    | As a teacher I want my students to enjoy learning                       | **Introduce learning through games**                     |
 
 ## Students (kids)
 
-| ID   | Feeling                                               | Feature (US)                                                              | BV   |
-| :--- | :---------------------------------------------------- | :------------------------------------------------------------------------ | :--- |
-| 1    | As a student I want to hear like everyone else        | Training of hearing and speaking                                          | Must |
-| 2    | As a student I want to have fun                       | **Introduce learning through games**                                      | Must |
-| 3    | As a student I want to play games                     | Exactly                                                                   | Must |
-| 4    | As a student I don't want to feel stupid              | Games use positive-reinforcement through a gentle learning curve          | Must |
-| 5    | As a student I want to play outside (this is a truck) | Raise awareness about...traffic inside the game (values)                  | Must |
-| 6    | As a student I want rewards :)                        | A grade mby, candy, money, advantages other than hearing and speaking     | Must |
-| 7    | As a student I want to make friends                   | **Multiplayer and sign.language-chat + voice-chat for advanced students** | Must |
-| 8    | As a student I don't want to be in this alone         | **Multiplayer and sign.language-chat + voice-chat for advanced students** | Must |
+| ID   | Need                                                  | Feature (US)                                                              |
+| :--- | :---------------------------------------------------- | :------------------------------------------------------------------------ |
+| 1    | As a student I want to hear like everyone else        | Training of hearing and speaking                                          |
+| 2    | As a student I want to have fun                       | **Introduce learning through games**                                      |
+| 3    | As a student I want to play games                     | Exactly                                                                   |
+| 4    | As a student I don't want to feel stupid              | Games use positive-reinforcement through a gentle learning curve          |
+| 5    | As a student I want to play outside (this is a truck) | Raise awareness about...traffic inside the game (values)                  |
+| 6    | As a student I want rewards :)                        | A grade mby, candy, money, advantages other than hearing and speaking     |
+| 7    | As a student I want to make friends                   | **Multiplayer and sign.language-chat + voice-chat for advanced students** |
+| 8    | As a student I don't want to be in this alone         | **Multiplayer and sign.language-chat + voice-chat for advanced students** |
 
 ## Doctor
 
-| ID   | Feeling                                                                          | Feature (US) |
+| ID   | Need                                                                             | Feature (US) |
 | :--- | :------------------------------------------------------------------------------- | :----------- |
 | 1    | As a doctor I want to help the kids to hear as best as the can                   | -            |
 | 2    | As a doctor I want to provide a good therapy treatment (oral and speech therapy) | -            |
@@ -45,7 +45,7 @@
 
 ## Other groups (restrictions f.e.)
 
-| ID   | Feeling                                                                                                               | Feature (US) |
+| ID   | Need                                                                                                                  | Feature (US) |
 | :--- | :-------------------------------------------------------------------------------------------------------------------- | :----------- |
 | 1    | As a game-designer I want to design a game that will be user-friendly                                                 | -            |
 | 1.2  | As a game-designer I want the game to have the level of complexity for a 5-year-old                                   | -            |

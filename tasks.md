@@ -74,7 +74,7 @@
 2. Target state
 3. application-flow diagram
 4. Stakeholder- and risk-analysis
-5. Logo for "Soundleague"
+5. Logo for "Soundseek"
 
 ### Kanban (03.11.2021)
 

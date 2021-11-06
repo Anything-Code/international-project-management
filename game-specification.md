@@ -18,22 +18,21 @@
   - Sound is given
   - Pick the according tile form the grid
 
-## User journey (Kids)
+## User journey (Kid's perspective)
 
 1. Kid has tablet
 2. Kid opens app
-3. Kid signs in or is already signed in
+3. Kid is signed in or is signed in by the teacher/parent
    1. If it is the first time playing
-      1. Character creation screen for the avatar (They can attach a sound to their created character)
-      2. Tutorial
-         1. ...
-      3. Start the game
+      1. Tutorial
+         1. Walkthrough by mascot using sign-writing
+      2. Start the game
 4. Main game
    1. The kid sees a WAVE-display of a sound with a name in sign-language
    2. Instructions on finding the SOS is given by the mascot via sign-language
    3. Then the kid has to "follow" the sound to reach its source
       1. If distance increases volume decreases
-      1. If distance decreases volume increases
+      2. If distance decreases volume increases
    4. The kid has found the source
    5. The kid sees a 3D-representation of the SOS in AR-space
    6. The kid has to tap it to collect it
