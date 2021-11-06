@@ -24,6 +24,7 @@
 - Use signily-hand pictures for sign-language-mocking
 
 ![Sign-language-assets](./img/sign-lanuage.jpg)
+![Sign-writing-assets](./img/sign-writing-hand-shapes.png)
 
 ### Kanban (29.10.2021)
 
