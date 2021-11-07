@@ -39,7 +39,7 @@ Effort is specified in numbers from the fibonacci-range.
 | 7    | to be able to see and tap the SOS when I am close enough                                                                                | Must  | -            |
 | 7.1  | The visual representation of the SOS is initially hidden                                                                                | Must  | 1            |
 | 7.2  | Once the distance < 2m (its a range since GSP is not that accurate) show the visual representation of the SOS                           | Must  | 3            |
-| 7.3  | Create 3D-representation of the room (using the camera and ARKit by iOS12)                                                              | Could | 5            |
+| 7.3  | Create 3D-representation of the room (using the camera and ARKit by Apple)                                                              | Could | 5            |
 | 7.4  | Display the SOS at the exact chosen position inside the world-matrix of the generated model of the room (that the teacher/parent chose) | Could | 8            |
 | 8    | to play a captcha mini-game                                                                                                             | Must  | -            |
 | 8.1  | Display the mini-game once the visual representation of the SOS has been tapped                                                         | Must  | 1            |
@@ -71,7 +71,7 @@ Effort is specified in numbers from the fibonacci-range.
 | 2.2  | Create routes to support CRUD-operations for SOSs as resources (backend)                                    | Must  | 8      |
 | 2.3  | Create button to set a new SOS at the current GPS-location                                                  | Must  | 1      |
 | 2.5  | Once the button is tapped display a "create-new-SOS-form"                                                   | Must  | 1      |
-| 2.6  | Create 3D-representation of the room (using the camera and ARKit by iOS12)                                  | Could | 5      |
+| 2.6  | Create 3D-representation of the room (using the camera and ARKit by Apple)                                  | Could | 5      |
 | 2.7  | Let the user choose position inside the 3D-Model where the SOS should be placed                             | Could | 8      |
 | 2.8  | Save the 3D-representation of the room together with the picked position for the SOS inside the form        | Could | 5      |
 | 2.9  | Provide GUI-elements for attaching sound from own library                                                   | Must  | 2      |
